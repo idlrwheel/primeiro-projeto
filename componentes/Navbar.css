@@ -1,0 +1,22 @@
+.lineBreak{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin: 100;
+    padding: 100;
+    background-color: lavenderblush;
+}
+
+.lineBreak p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: indianred;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: palevioletred;
+}
